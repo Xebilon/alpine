@@ -14,7 +14,7 @@ export default defineAppConfig({
       logo: {
         path: '/logo.svg', // path of the logo
         pathDark: '/logo-dark.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
-        alt: 'alpine' // alt of the logo
+        alt: '' // alt of the logo
       }
     },
     footer: {
@@ -34,11 +34,18 @@ export default defineAppConfig({
     socials: {
       twitter: '',
       instagram: '',
-      linkedin: '', 
+      linkedin: {
+        icon: 'uil:linkedin',
+        label: 'LinkedIn',
+        href: 'https://www.linkedin.com/company/nuxtlabs'
       }
     },
     form: {
       successMessage: 'Message sent. Thank you!'
     }
+  },
+
+  prose: {
+    h1: {}
   }
 })
