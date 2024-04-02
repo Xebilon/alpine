@@ -1,0 +1,1 @@
+\| Krokslätts Fabriker | [KFR](<https://vasttrafik.sharepoint.com/sites/leverans.storningshantering/_layouts/15/Doc.aspx?sourcedoc=%7B3C9B7E82-2627-440A-B32A-D7177CFEA594%7D\\\&action=embedview\\\&wdAllowInteractivity=False\\\&ActiveCell='Kroksl%C3%A4tts%20Fabriker'!A1 target="_blank>)

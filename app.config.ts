@@ -43,5 +43,11 @@ export default defineAppConfig({
 
   prose: {
     h1: {}
+  },
+
+  nuxtIcon: {
+    aliases: {
+      'key-1': ''
+    }
   }
 })
